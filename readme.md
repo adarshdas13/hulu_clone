@@ -4,3 +4,5 @@
 > [![Netlify Status](https://api.netlify.com/api/v1/badges/55592bdb-1d47-4918-bc13-31210d2d2f19/deploy-status)](https://app.netlify.com/projects/hulu-adarsh/deploys)
 
 ![Hulu Clone](/img/screen.png 'Hulu Clone')
+
+# developed by Adarsh Das
